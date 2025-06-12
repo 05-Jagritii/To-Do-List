@@ -42,6 +42,14 @@ To run this project locally:
 2. Open the project:
    ```bash
    start index.html
+## Project Structure
+```
+to-do-list/
+├── index.html
+├── style.css
+└── README.md
+
+```
 ## Author
 Jagriti Kanwar
 <br>
