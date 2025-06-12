@@ -38,7 +38,10 @@ To run this project locally:
    ```bash
    git clone https://github.com/05-jagritii/to-do-list.git
    cd to-do-list
-
+  
+2. Open the project:
+   ```bash
+   start index.html
 ## Author
 Jagriti Kanwar
 <br>
